@@ -1,32 +1,22 @@
-# 👋 ¡Hola! Soy un Senior Frontend Developer
+# 👋 ¡Hola! Soy Desarrollador Fullstack
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Senior+Frontend+Developer;React+%7C+TypeScript+%7C+Three.js;Creando+experiencias+3D+únicas;%F0%9F%9A%80+Building+the+future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Java+%7C+Spring+Boot+%7C+React;Construyendo+soluciones+web;🚀+Aprendiendo+y+creciendo" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" alt="Sparkles" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" width="50" height="50" />
 </div>
 
 ---
 
 ## 🎨 Sobre Mí
 
-```typescript
-const developer = {
-  name: "Senior Frontend Developer",
-  role: "Arquitecto de Experiencias Digitales",
-  location: "🌍 Remoto / Presencial",
-  passion: ["Three.js", "React", "Animaciones", "UI/UX"],
-  philosophy: "El código es arte, y el navegador es mi lienzo"
-}
-```
-
-Soy un desarrollador apasionado por crear interfaces que no solo funcionan, sino que **viven**. Especializado en experiencias 3D interactivas, animaciones fluidas y arquitecturas frontend escalables.
+Soy un desarrollador fullstack enfocado en crear aplicaciones web funcionales, escalables y bien estructuradas. Me especializo en el desarrollo de soluciones tanto en frontend como backend, integrando interfaces eficientes con APIs robustas. Disfruto construir productos que no solo funcionan correctamente, sino que ofrecen una buena experiencia al usuario. Busco seguir creciendo en entornos tecnológicos modernos y de aprendizaje continuo.
 
 ---
 
@@ -104,38 +94,6 @@ Soy un desarrollador apasionado por crear interfaces que no solo funcionan, sino
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🚀 Proyecto Destacado: Portafolio 3D Interactivo
-
-<div align="center">
-  <img src="public/profile.jpg" alt="Portfolio Preview" width="600px" style="border-radius: 10px; box-shadow: 0 0 30px #00ffcc;" />
-</div>
-
-### ✨ Características
-
-- 🎨 **Diseño Futurista** - Glassmorphism y efectos visuales modernos
-- 🌌 **Fondo 3D Interactivo** - Partículas animadas con Three.js
-- 🎬 **Animaciones Fluidas** - Transiciones suaves con Anime.js
-- 📱 **Totalmente Responsive** - Se adapta a cualquier dispositivo
-- ⚡ **Ultra Rápido** - Powered by Vite + React 19
-- 🎯 **Scroll Reveal** - Animaciones al hacer scroll
-- 📊 **Sección de Stats** - Habilidades y experiencia visual
-- 📧 **Formulario de Contacto** - Conecta directamente
-
----
-
-## 🏆 Logros & Certificaciones
-
-<div align="center">
-
-🥇 **Senior Frontend Developer** - 5+ años de experiencia  
-🎨 **Especialista en Three.js** - Creando experiencias WebGL  
-⚡ **React Expert** - Arquitecturas escalables  
-🚀 **Performance Guru** - Lighthouse 100/100  
-
 </div>
 
 ---
