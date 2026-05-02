@@ -125,26 +125,6 @@ Soy un desarrollador apasionado por crear interfaces que no solo funcionan, sino
 - 📊 **Sección de Stats** - Habilidades y experiencia visual
 - 📧 **Formulario de Contacto** - Conecta directamente
 
-### 🛠️ Tech Stack del Portafolio
-
-```
-Frontend:  React 19 + TypeScript + Vite
-3D:       Three.js + @types/three
-Animación: Anime.js v4
-Estilos:   CSS3 (Glassmorphism + Custom Properties)
-```
-
-### 🎨 Paleta de Colores
-
-```css
-:root {
-  --bg-primary: #030305;      /* Fondo profundo */
-  --text-primary: #e6f1ff;    /* Texto brillante */
-  --accent: #00ffcc;          /* Cian neón */
-  --text-muted: #8892b0;      /* Texto secundario */
-}
-```
-
 ---
 
 ## 🏆 Logros & Certificaciones
